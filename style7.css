@@ -1,0 +1,44 @@
+.e90_89 { 
+	overflow:hidden;
+}
+.e90_89 { 
+	background-color:rgba(255, 255, 255, 1);
+	width:1920px;
+	height:1080px;
+	position:absolute;
+	background-image:url("img/6.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+}
+.e104_8 { 
+	background-color:rgba(213.00000250339508, 181.0000044107437, 156.00000590085983, 0.6000000238418579);
+	width:1400px;
+	height:1080px;
+	position:absolute;
+	left:260px;
+	top:0px;
+}
+.e104_9 { 
+	color:rgba(0, 0, 0, 1);
+	width:933px;
+	height:77px;
+	position:absolute;
+	left:493px;
+	top:42px;
+	font-family:Inter;
+	text-align:left;
+	font-size:64px;
+	letter-spacing:0;
+}
+.e104_22 { 
+	color:rgba(0, 0, 0, 1);
+	width:1324px;
+	height:77px;
+	position:absolute;
+	left:298px;
+	top: 478px;
+	font-family:Inter;
+	text-align:center;
+	font-size:64px;
+	letter-spacing:0;
+}
